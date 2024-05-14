@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "autoprefixer": "10.4.2",
-    "nuxt": "3.0.0"
+    "nuxt": "3.4.2"
   },
   "keywords": [],
   "name": "get-started-with-sanity-nuxt-starter",
